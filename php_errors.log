@@ -1,0 +1,470 @@
+[05-Nov-2017 23:53:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/magazzino/otelsy-user/index.php on line 56
+[05-Nov-2017 23:53:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/magazzino/otelsy-user/index.php on line 56
+[09-Nov-2017 18:46:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php on line 84
+[09-Nov-2017 18:46:24 UTC] PHP Stack trace:
+[09-Nov-2017 18:46:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php:0
+[09-Nov-2017 18:46:24 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php:84
+[09-Nov-2017 19:47:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php on line 151
+[09-Nov-2017 19:47:26 UTC] PHP Stack trace:
+[09-Nov-2017 19:47:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php:0
+[09-Nov-2017 19:47:26 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php:151
+[09-Nov-2017 21:06:19 UTC] PHP Warning:  include(assets/fusioncharts.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php on line 231
+[09-Nov-2017 21:06:19 UTC] PHP Stack trace:
+[09-Nov-2017 21:06:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php:0
+[09-Nov-2017 21:06:19 UTC] PHP Warning:  include(): Failed opening 'assets/fusioncharts.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php on line 231
+[09-Nov-2017 21:06:19 UTC] PHP Stack trace:
+[09-Nov-2017 21:06:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php:0
+[09-Nov-2017 21:06:19 UTC] PHP Fatal error:  Class 'FusionCharts' not found in /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php on line 234
+[09-Nov-2017 21:06:19 UTC] PHP Stack trace:
+[09-Nov-2017 21:06:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php:0
+[09-Nov-2017 21:07:10 UTC] PHP Warning:  include(assets/fusioncharts.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php on line 231
+[09-Nov-2017 21:07:10 UTC] PHP Stack trace:
+[09-Nov-2017 21:07:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php:0
+[09-Nov-2017 21:07:10 UTC] PHP Warning:  include(): Failed opening 'assets/fusioncharts.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php on line 231
+[09-Nov-2017 21:07:10 UTC] PHP Stack trace:
+[09-Nov-2017 21:07:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php:0
+[09-Nov-2017 21:07:10 UTC] PHP Fatal error:  Class 'FusionCharts' not found in /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php on line 234
+[09-Nov-2017 21:07:10 UTC] PHP Stack trace:
+[09-Nov-2017 21:07:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php:0
+[09-Nov-2017 21:07:14 UTC] PHP Warning:  include(assets/fusioncharts.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php on line 231
+[09-Nov-2017 21:07:14 UTC] PHP Stack trace:
+[09-Nov-2017 21:07:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php:0
+[09-Nov-2017 21:07:14 UTC] PHP Warning:  include(): Failed opening 'assets/fusioncharts.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php on line 231
+[09-Nov-2017 21:07:14 UTC] PHP Stack trace:
+[09-Nov-2017 21:07:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php:0
+[09-Nov-2017 21:07:14 UTC] PHP Fatal error:  Class 'FusionCharts' not found in /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php on line 234
+[09-Nov-2017 21:07:14 UTC] PHP Stack trace:
+[09-Nov-2017 21:07:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.1.php:0
+[10-Nov-2017 21:34:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 33
+[10-Nov-2017 21:34:11 UTC] PHP Stack trace:
+[10-Nov-2017 21:34:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[10-Nov-2017 21:34:11 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:33
+[10-Nov-2017 21:34:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 33
+[10-Nov-2017 21:34:25 UTC] PHP Stack trace:
+[10-Nov-2017 21:34:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[10-Nov-2017 21:34:25 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:33
+[10-Nov-2017 21:40:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 33
+[10-Nov-2017 21:40:06 UTC] PHP Stack trace:
+[10-Nov-2017 21:40:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[10-Nov-2017 21:40:06 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:33
+[10-Nov-2017 21:40:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 33
+[10-Nov-2017 21:40:12 UTC] PHP Stack trace:
+[10-Nov-2017 21:40:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[10-Nov-2017 21:40:12 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:33
+[10-Nov-2017 22:05:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 33
+[10-Nov-2017 22:05:59 UTC] PHP Stack trace:
+[10-Nov-2017 22:05:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[10-Nov-2017 22:05:59 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:33
+[10-Nov-2017 22:07:40 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 44
+[10-Nov-2017 22:08:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 33
+[10-Nov-2017 22:08:02 UTC] PHP Stack trace:
+[10-Nov-2017 22:08:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[10-Nov-2017 22:08:02 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:33
+[10-Nov-2017 22:08:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 33
+[10-Nov-2017 22:08:55 UTC] PHP Stack trace:
+[10-Nov-2017 22:08:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[10-Nov-2017 22:08:55 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:33
+[10-Nov-2017 22:09:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 33
+[10-Nov-2017 22:09:36 UTC] PHP Stack trace:
+[10-Nov-2017 22:09:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[10-Nov-2017 22:09:36 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:33
+[10-Nov-2017 22:09:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 33
+[10-Nov-2017 22:09:56 UTC] PHP Stack trace:
+[10-Nov-2017 22:09:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[10-Nov-2017 22:09:56 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:33
+[10-Nov-2017 22:10:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 33
+[10-Nov-2017 22:10:07 UTC] PHP Stack trace:
+[10-Nov-2017 22:10:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[10-Nov-2017 22:10:07 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:33
+[10-Nov-2017 22:11:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 33
+[10-Nov-2017 22:11:55 UTC] PHP Stack trace:
+[10-Nov-2017 22:11:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[10-Nov-2017 22:11:55 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:33
+[10-Nov-2017 22:14:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[10-Nov-2017 22:14:57 UTC] PHP Stack trace:
+[10-Nov-2017 22:14:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[10-Nov-2017 22:14:57 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 15:59:06 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 229
+[11-Nov-2017 15:59:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 220
+[11-Nov-2017 15:59:42 UTC] PHP Stack trace:
+[11-Nov-2017 15:59:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 15:59:42 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:220
+[11-Nov-2017 16:00:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 220
+[11-Nov-2017 16:00:10 UTC] PHP Stack trace:
+[11-Nov-2017 16:00:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:00:10 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:220
+[11-Nov-2017 16:00:13 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 220
+[11-Nov-2017 16:00:13 UTC] PHP Stack trace:
+[11-Nov-2017 16:00:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:00:13 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:220
+[11-Nov-2017 16:00:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 220
+[11-Nov-2017 16:00:15 UTC] PHP Stack trace:
+[11-Nov-2017 16:00:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:00:15 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:220
+[11-Nov-2017 16:01:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 220
+[11-Nov-2017 16:01:05 UTC] PHP Stack trace:
+[11-Nov-2017 16:01:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:01:05 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:220
+[11-Nov-2017 16:01:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 221
+[11-Nov-2017 16:01:35 UTC] PHP Stack trace:
+[11-Nov-2017 16:01:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:01:35 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:221
+[11-Nov-2017 16:01:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 225
+[11-Nov-2017 16:01:35 UTC] PHP Stack trace:
+[11-Nov-2017 16:01:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:01:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 221
+[11-Nov-2017 16:01:44 UTC] PHP Stack trace:
+[11-Nov-2017 16:01:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:01:44 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:221
+[11-Nov-2017 16:01:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 225
+[11-Nov-2017 16:01:44 UTC] PHP Stack trace:
+[11-Nov-2017 16:01:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:02:33 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 221
+[11-Nov-2017 16:02:33 UTC] PHP Stack trace:
+[11-Nov-2017 16:02:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:02:33 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 221
+[11-Nov-2017 16:02:33 UTC] PHP Stack trace:
+[11-Nov-2017 16:02:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:02:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 224
+[11-Nov-2017 16:02:33 UTC] PHP Stack trace:
+[11-Nov-2017 16:02:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:02:46 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 221
+[11-Nov-2017 16:02:46 UTC] PHP Stack trace:
+[11-Nov-2017 16:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:02:46 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 221
+[11-Nov-2017 16:02:46 UTC] PHP Stack trace:
+[11-Nov-2017 16:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:02:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 224
+[11-Nov-2017 16:02:46 UTC] PHP Stack trace:
+[11-Nov-2017 16:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 222
+[11-Nov-2017 16:04:06 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:06 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 222
+[11-Nov-2017 16:04:06 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 225
+[11-Nov-2017 16:04:06 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:09 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 222
+[11-Nov-2017 16:04:09 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:09 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 222
+[11-Nov-2017 16:04:09 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 225
+[11-Nov-2017 16:04:09 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:12 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 222
+[11-Nov-2017 16:04:12 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:12 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 222
+[11-Nov-2017 16:04:12 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 225
+[11-Nov-2017 16:04:12 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:12 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 222
+[11-Nov-2017 16:04:12 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:12 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 222
+[11-Nov-2017 16:04:12 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 225
+[11-Nov-2017 16:04:12 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:12 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 222
+[11-Nov-2017 16:04:12 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:12 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 222
+[11-Nov-2017 16:04:12 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 225
+[11-Nov-2017 16:04:12 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 222
+[11-Nov-2017 16:04:49 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:49 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 222
+[11-Nov-2017 16:04:49 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:04:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 225
+[11-Nov-2017 16:04:49 UTC] PHP Stack trace:
+[11-Nov-2017 16:04:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:06:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 33
+[11-Nov-2017 16:06:10 UTC] PHP Stack trace:
+[11-Nov-2017 16:06:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:06:10 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:33
+[11-Nov-2017 16:07:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 33
+[11-Nov-2017 16:07:14 UTC] PHP Stack trace:
+[11-Nov-2017 16:07:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:07:14 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:33
+[11-Nov-2017 16:17:07 UTC] PHP Parse error:  syntax error, unexpected '$prodotto' (T_VARIABLE) in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 223
+[11-Nov-2017 16:17:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:17:24 UTC] PHP Stack trace:
+[11-Nov-2017 16:17:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:17:24 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:18:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:18:01 UTC] PHP Stack trace:
+[11-Nov-2017 16:18:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:18:01 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:18:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:18:30 UTC] PHP Stack trace:
+[11-Nov-2017 16:18:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:18:30 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:21:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:21:54 UTC] PHP Stack trace:
+[11-Nov-2017 16:21:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:21:54 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:22:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:22:01 UTC] PHP Stack trace:
+[11-Nov-2017 16:22:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:22:01 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:23:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:23:05 UTC] PHP Stack trace:
+[11-Nov-2017 16:23:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:23:05 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:23:39 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:23:39 UTC] PHP Stack trace:
+[11-Nov-2017 16:23:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:23:39 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:25:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:25:55 UTC] PHP Stack trace:
+[11-Nov-2017 16:25:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:25:55 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:26:16 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:26:16 UTC] PHP Stack trace:
+[11-Nov-2017 16:26:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:26:16 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:28:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:28:48 UTC] PHP Stack trace:
+[11-Nov-2017 16:28:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:28:48 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:33:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:33:26 UTC] PHP Stack trace:
+[11-Nov-2017 16:33:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:33:26 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:39:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:39:05 UTC] PHP Stack trace:
+[11-Nov-2017 16:39:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:39:05 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:39:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:39:32 UTC] PHP Stack trace:
+[11-Nov-2017 16:39:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:39:32 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:39:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:39:34 UTC] PHP Stack trace:
+[11-Nov-2017 16:39:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:39:34 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[11-Nov-2017 16:39:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php on line 34
+[11-Nov-2017 16:39:37 UTC] PHP Stack trace:
+[11-Nov-2017 16:39:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:0
+[11-Nov-2017 16:39:37 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/infoProdotto.php:34
+[13-Nov-2017 21:09:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/index.php on line 243
+[13-Nov-2017 21:09:25 UTC] PHP Stack trace:
+[13-Nov-2017 21:09:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.php:0
+[13-Nov-2017 21:09:25 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/magazzino/otelsy-admin/index.php:243
+[13-Nov-2017 21:15:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/index.php on line 315
+[13-Nov-2017 21:15:36 UTC] PHP Stack trace:
+[13-Nov-2017 21:15:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.php:0
+[13-Nov-2017 21:15:36 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/magazzino/otelsy-admin/index.php:315
+[13-Nov-2017 21:17:41 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/index.php on line 315
+[13-Nov-2017 21:17:41 UTC] PHP Stack trace:
+[13-Nov-2017 21:17:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.php:0
+[13-Nov-2017 21:17:41 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/magazzino/otelsy-admin/index.php:315
+[13-Nov-2017 21:18:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/index.php on line 315
+[13-Nov-2017 21:18:26 UTC] PHP Stack trace:
+[13-Nov-2017 21:18:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/index.php:0
+[13-Nov-2017 21:18:26 UTC] PHP   2. mysql_num_rows() /home/ubuntu/workspace/magazzino/otelsy-admin/index.php:315
+[13-Nov-2017 22:29:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/aggiungiQuantita.php on line 27
+[13-Nov-2017 22:29:56 UTC] PHP Stack trace:
+[13-Nov-2017 22:29:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/aggiungiQuantita.php:0
+[13-Nov-2017 22:29:56 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/aggiungiQuantita.php:27
+[13-Nov-2017 22:30:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[13-Nov-2017 22:30:08 UTC] PHP Stack trace:
+[13-Nov-2017 22:30:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[13-Nov-2017 22:30:08 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[13-Nov-2017 22:41:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[13-Nov-2017 22:41:02 UTC] PHP Stack trace:
+[13-Nov-2017 22:41:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[13-Nov-2017 22:41:02 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[13-Nov-2017 22:43:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[13-Nov-2017 22:43:57 UTC] PHP Stack trace:
+[13-Nov-2017 22:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[13-Nov-2017 22:43:57 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[13-Nov-2017 22:43:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[13-Nov-2017 22:43:58 UTC] PHP Stack trace:
+[13-Nov-2017 22:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[13-Nov-2017 22:43:58 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[13-Nov-2017 22:53:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/infoProdotto.php on line 33
+[13-Nov-2017 22:53:07 UTC] PHP Stack trace:
+[13-Nov-2017 22:53:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/infoProdotto.php:0
+[13-Nov-2017 22:53:07 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/infoProdotto.php:33
+[13-Nov-2017 22:56:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/infoProdotto.php on line 33
+[13-Nov-2017 22:56:09 UTC] PHP Stack trace:
+[13-Nov-2017 22:56:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/infoProdotto.php:0
+[13-Nov-2017 22:56:09 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/infoProdotto.php:33
+[13-Nov-2017 22:58:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/modificaProdotto.php on line 31
+[13-Nov-2017 22:58:31 UTC] PHP Stack trace:
+[13-Nov-2017 22:58:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/modificaProdotto.php:0
+[13-Nov-2017 22:58:31 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/modificaProdotto.php:31
+[14-Nov-2017 00:01:45 Europe/Rome] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php on line 60
+[14-Nov-2017 00:01:45 Europe/Rome] PHP Stack trace:
+[14-Nov-2017 00:01:45 Europe/Rome] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php:0
+[14-Nov-2017 00:01:45 Europe/Rome] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php:60
+[14-Nov-2017 00:03:49 Europe/Rome] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php on line 60
+[14-Nov-2017 00:03:49 Europe/Rome] PHP Stack trace:
+[14-Nov-2017 00:03:49 Europe/Rome] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php:0
+[14-Nov-2017 00:03:49 Europe/Rome] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php:60
+[14-Nov-2017 00:04:48 Europe/Rome] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php on line 60
+[14-Nov-2017 00:04:48 Europe/Rome] PHP Stack trace:
+[14-Nov-2017 00:04:48 Europe/Rome] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php:0
+[14-Nov-2017 00:04:48 Europe/Rome] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php:60
+[14-Nov-2017 00:06:21 Europe/Rome] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php on line 60
+[14-Nov-2017 00:06:21 Europe/Rome] PHP Stack trace:
+[14-Nov-2017 00:06:21 Europe/Rome] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php:0
+[14-Nov-2017 00:06:21 Europe/Rome] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php:60
+[14-Nov-2017 00:06:58 Europe/Rome] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php on line 60
+[14-Nov-2017 00:06:58 Europe/Rome] PHP Stack trace:
+[14-Nov-2017 00:06:58 Europe/Rome] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php:0
+[14-Nov-2017 00:06:58 Europe/Rome] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php:60
+[13-Nov-2017 23:07:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php on line 30
+[13-Nov-2017 23:07:47 UTC] PHP Stack trace:
+[13-Nov-2017 23:07:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php:0
+[13-Nov-2017 23:07:47 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/prelevaQuantita.php:30
+[15-Nov-2017 09:05:58 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php on line 14
+[15-Nov-2017 09:05:58 UTC] PHP Stack trace:
+[15-Nov-2017 09:05:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:0
+[15-Nov-2017 09:05:58 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:14
+[17-Nov-2017 13:43:59 Europe/Rome] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiProdotto.php on line 59
+[17-Nov-2017 13:43:59 Europe/Rome] PHP Stack trace:
+[17-Nov-2017 13:43:59 Europe/Rome] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiProdotto.php:0
+[17-Nov-2017 13:43:59 Europe/Rome] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiProdotto.php:59
+[17-Nov-2017 13:45:41 Europe/Rome] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiProdotto.php on line 61
+[17-Nov-2017 13:45:41 Europe/Rome] PHP Stack trace:
+[17-Nov-2017 13:45:41 Europe/Rome] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiProdotto.php:0
+[17-Nov-2017 13:45:41 Europe/Rome] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiProdotto.php:61
+[17-Nov-2017 12:50:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php on line 30
+[17-Nov-2017 12:50:47 UTC] PHP Stack trace:
+[17-Nov-2017 12:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php:0
+[17-Nov-2017 12:50:47 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php:30
+[17-Nov-2017 12:50:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php on line 53
+[17-Nov-2017 12:50:47 UTC] PHP Stack trace:
+[17-Nov-2017 12:50:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php:0
+[17-Nov-2017 12:50:47 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php:53
+[17-Nov-2017 12:51:48 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php on line 30
+[17-Nov-2017 12:51:48 UTC] PHP Stack trace:
+[17-Nov-2017 12:51:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php:0
+[17-Nov-2017 12:51:48 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php:30
+[17-Nov-2017 12:52:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php on line 30
+[17-Nov-2017 12:52:36 UTC] PHP Stack trace:
+[17-Nov-2017 12:52:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php:0
+[17-Nov-2017 12:52:36 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php:30
+[17-Nov-2017 12:55:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php on line 30
+[17-Nov-2017 12:55:00 UTC] PHP Stack trace:
+[17-Nov-2017 12:55:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php:0
+[17-Nov-2017 12:55:00 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/aggiungiQuantita.php:30
+[20-Jan-2018 14:19:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 14:19:08 UTC] PHP Stack trace:
+[20-Jan-2018 14:19:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 14:19:08 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:04:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:04:17 UTC] PHP Stack trace:
+[20-Jan-2018 17:04:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:04:17 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:09:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:09:00 UTC] PHP Stack trace:
+[20-Jan-2018 17:09:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:09:00 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:09:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php on line 14
+[20-Jan-2018 17:09:52 UTC] PHP Stack trace:
+[20-Jan-2018 17:09:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:0
+[20-Jan-2018 17:09:52 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:14
+[20-Jan-2018 17:42:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php on line 14
+[20-Jan-2018 17:42:03 UTC] PHP Stack trace:
+[20-Jan-2018 17:42:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:0
+[20-Jan-2018 17:42:03 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:14
+[20-Jan-2018 17:42:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php on line 14
+[20-Jan-2018 17:42:33 UTC] PHP Stack trace:
+[20-Jan-2018 17:42:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:0
+[20-Jan-2018 17:42:33 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:14
+[20-Jan-2018 17:42:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php on line 14
+[20-Jan-2018 17:42:50 UTC] PHP Stack trace:
+[20-Jan-2018 17:42:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:0
+[20-Jan-2018 17:42:50 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:14
+[20-Jan-2018 17:43:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php on line 14
+[20-Jan-2018 17:43:06 UTC] PHP Stack trace:
+[20-Jan-2018 17:43:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:0
+[20-Jan-2018 17:43:06 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:14
+[20-Jan-2018 17:44:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php on line 14
+[20-Jan-2018 17:44:01 UTC] PHP Stack trace:
+[20-Jan-2018 17:44:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:0
+[20-Jan-2018 17:44:01 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:14
+[20-Jan-2018 17:44:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php on line 14
+[20-Jan-2018 17:44:40 UTC] PHP Stack trace:
+[20-Jan-2018 17:44:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:0
+[20-Jan-2018 17:44:40 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:14
+[20-Jan-2018 17:46:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php on line 14
+[20-Jan-2018 17:46:10 UTC] PHP Stack trace:
+[20-Jan-2018 17:46:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:0
+[20-Jan-2018 17:46:10 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-admin/raccogli.php:14
+[20-Jan-2018 17:53:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:53:09 UTC] PHP Stack trace:
+[20-Jan-2018 17:53:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:53:09 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:53:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:53:52 UTC] PHP Stack trace:
+[20-Jan-2018 17:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:53:52 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:54:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:54:44 UTC] PHP Stack trace:
+[20-Jan-2018 17:54:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:54:44 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:54:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:54:57 UTC] PHP Stack trace:
+[20-Jan-2018 17:54:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:54:57 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:55:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:55:15 UTC] PHP Stack trace:
+[20-Jan-2018 17:55:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:55:15 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:55:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:55:24 UTC] PHP Stack trace:
+[20-Jan-2018 17:55:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:55:24 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:55:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:55:41 UTC] PHP Stack trace:
+[20-Jan-2018 17:55:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:55:41 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:56:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:56:29 UTC] PHP Stack trace:
+[20-Jan-2018 17:56:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:56:29 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:56:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:56:44 UTC] PHP Stack trace:
+[20-Jan-2018 17:56:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:56:44 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:56:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:56:53 UTC] PHP Stack trace:
+[20-Jan-2018 17:56:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:56:53 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:57:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:57:11 UTC] PHP Stack trace:
+[20-Jan-2018 17:57:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:57:11 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:57:33 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:57:33 UTC] PHP Stack trace:
+[20-Jan-2018 17:57:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:57:33 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:57:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:57:43 UTC] PHP Stack trace:
+[20-Jan-2018 17:57:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:57:43 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:58:16 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:58:16 UTC] PHP Stack trace:
+[20-Jan-2018 17:58:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:58:16 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
+[20-Jan-2018 17:58:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php on line 15
+[20-Jan-2018 17:58:38 UTC] PHP Stack trace:
+[20-Jan-2018 17:58:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:0
+[20-Jan-2018 17:58:38 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/magazzino/otelsy-user/raccogli.php:15
